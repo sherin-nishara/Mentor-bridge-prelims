@@ -26,10 +26,10 @@ class Main {
                     System.out.println(s.flower + "  " + " count : " + s.count + " price : " + roseP*s.count);
                     break;
                 case "lotus":
-                    System.out.println(s.flower + "  " + " count : " + s.count + " price : " + roseP*s.count);
+                    System.out.println(s.flower + "  " + " count : " + s.count + " price : " + lotusP*s.count);
                     break;
                 case "jasmin":
-                    System.out.println(s.flower + "  " + " count : " + s.count + " price : " + roseP*s.count);
+                    System.out.println(s.flower + "  " + " count : " + s.count + " price : " + jasminP*s.count);
                     break;
             }
         }
